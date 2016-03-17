@@ -1,0 +1,31 @@
+{
+  "name": "nsp-webpack-plugin",
+  "version": "0.0.0",
+  "description": "Webpack plugin for NSP",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/nsp-webpack-plugin.git"
+  },
+  "keywords": [
+    "NSP",
+    "security",
+    "webpack",
+    "plugin"
+  ],
+  "author": "wyvernnot",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/nsp-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/nsp-webpack-plugin#readme",
+  "devDependencies": {
+    "nsp": "^2.2.1"
+  }
+}

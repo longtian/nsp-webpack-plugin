@@ -1,0 +1,17 @@
+{
+  "name": "exapmple-nsp",
+  "version": "0.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.10.*"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
